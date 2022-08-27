@@ -9,7 +9,7 @@
 
 http://newtestforproject.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/FABA/production/_126468146_mediaitem126468145.jpg
 
-
+http://localhost:8082/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/FABA/production/_126468146_mediaitem126468145.jpg
 
 <!--                                 My ElasticBeansTalk endpoint                        -->
 
